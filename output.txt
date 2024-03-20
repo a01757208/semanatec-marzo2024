@@ -1,0 +1,19 @@
+
+
+Hola Risako, bienvenido al curso.
+
+El script en ejecución es: ./hello.sh
+
+El directorio actual es:
+/Users/babarisako/semana_tec
+
+
+y su contenido es:
+
+total 16
+drwxr-xr-x   4 babarisako  staff   128  3 19 22:44 .
+drwxr-xr-x+ 45 babarisako  staff  1440  3 19 22:26 ..
+-rwxr-xr-x   1 babarisako  staff   211  3 19 22:22 hello.sh
+-rw-r--r--   1 babarisako  staff   153  3 19 22:44 output.txt
+
+
